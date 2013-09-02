@@ -1,4 +1,4 @@
 saltstack-cloudstack
 ====================
 
-Deploy Cloudstack Cluster with SaltStack
+Auto Deploy IAAS Cloudstack Cluster with SaltStack
